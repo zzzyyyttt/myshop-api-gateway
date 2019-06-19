@@ -1,7 +1,0 @@
-#Windows
-*.bat     eol=crlf
-*.txt     eol=crlf
-
-#Unix
-*.java    eol=lf
-*.sh    eol=lf
